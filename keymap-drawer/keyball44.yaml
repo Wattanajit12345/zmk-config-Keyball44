@@ -37,7 +37,7 @@ layers:
   - '?'
   - '&mkp MB1'
   - LGUI
-  - $$mdi:apple-keyboard-option$$
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: FUN, h: toggle}
   - $$mdi:apple-keyboard-shift$$
   - {t: NUM, h: toggle}
