@@ -171,7 +171,7 @@ layers:
   - {t: 'Gui+Sft+]', s: 'Gui+Sft+}'}
   - {t: 'Gui+[', s: 'Gui+{'}
   - {t: 'Gui+]', s: 'Gui+}'}
-  - F1
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
