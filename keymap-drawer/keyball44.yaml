@@ -35,9 +35,9 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - '?'
-  - '&mkp MB1'
+  - $$mdi:mouse-left-click-outline$$
   - LGUI
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - $$mdi:mouse-right-click-outline$$
   - {t: FUN, h: toggle}
   - $$mdi:apple-keyboard-shift$$
   - {t: NUM, h: toggle}
